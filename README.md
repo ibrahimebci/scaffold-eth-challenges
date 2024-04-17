@@ -1,3 +1,4 @@
+
 # 🏗👷🏾 Scaffold-ETH Challenges
 
 > 🎖 We recommend you check the Scaffold-ETH 2 version of the challenges: [https://github.com/scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/se-2-challenges)
